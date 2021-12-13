@@ -1,6 +1,7 @@
 # project-ideas
 These are unused pitches from past final group project pitch days. Something in here might serve as inspiration.
 All of these are presented with permission from the people who pitched them.
+Feel free to update this document if you have any other ideas you'd like to contribute.
 
 ## Community Projects
 * Consolidated list of scholarships
