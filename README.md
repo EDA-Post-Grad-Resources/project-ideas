@@ -3,6 +3,37 @@ These are unused pitches from past final group project pitch days. Something in 
 All of these are presented with permission from the people who pitched them.
 Feel free to update this document if you have any other ideas you'd like to contribute.
 
+* Pet health app. Vet info, reminders for flea treatment etc, info for use by pet babysitter like bedtimes and food requirements.
+* Collate info for learning a song. Repository for putting demos for others to learn. GitHub for musicians.
+* NFT project. Each student is given an NFT token as membership to an illumni group. Sell tokens to outsiders. Opportunity for other to network with us in years to come.
+* Life admin tracker for periodical tasks eg WOF, renew drivers license. Mark it as complete and it will reset the timer for next instance. If you run behind on a task it resets the time from the cutoff date/new completion date.
+* A place for open datasets where ppl doing research can post their data for review, and others can use that data in their own work and give credit.
+* Park sharing app - lease/rent out spare carparks you have.
+* "Lonely no more" Match people based on interest, or by events. Even Kevin deserves a friend.
+* App for kids and parents. Map of child friendly places, like playgrounds, shops with kid areas. List of workshops and resources. Mark places as visited add review.
+* Coding kata - anyone with an account can create a kata. Do reps of small tasks, like "make a button", incremental like start out with skeleton starter code, then less starter code, then make one from scratch.
+* Social app that facilitates deeper connections between people. Match make or connect with loved ones. Provide tools, gamification to facilitate engagement. "konekochan"
+* "Co.lab" Post company/startup idea. List what skills you're looking for, then recruit people to meet those requirements. Once signed up to a project get access to shared tools like kanban board etc.
+* Recipes collection (your own ones). To track variations of the recipe as it evolves.
+* App to collate and recommend online lessons eg from youtube. Include comments from users, up/downvote. To vet tutorials so you don't waste time. Categories, like music, DIY etc.
+* "Air frier strats" Tips and recipes for air friers
+* Supermarket aisle guide. Submit an ingredient list and see which aisles to go to. Also include different shops, so it optimises shop order, then aisle order.
+* Supercharged todo app. Public or private todo list. Accountability buddy gets notifications when you flake. Flag for help. Trade todos with your friends. eg ring my doctor and I'll mow your lawn.
+* Invite only food reviews. Get reviews only from people you trust.
+* App for musicians to find folks to jam with. Set availablity - popup, or standing times. Private or public.
+* Bootcamp app where stuff lives centrally. Guide / retros / Miro boards repository
+* Provides user with snippets of writing/poetry etc to read, then it asks you for your thoughts on it. Open source music in the background. Upload photos relevant to the things you've read.
+* Professional development records. Dropdown with profession. Evidence of proof for promotion/job applications. "Logit CPD"
+* List of all bakeries in 15min drive. See list of top baked items from users. "Bakery Feedz"
+* Toilet finder. Non gross only pls. In the city and also for road trips. Offer to let travellers use your home toilet on the way past. "Air bnbntoilet"
+* App to convert gym workout plan to an at-home equivalent. Or park, with access to bars etc.
+* "Walkies" Find people to walk your dog. Match doggos to people who walk nearby.
+* "Argument facebook" Facebook clone where people can go to argue. Matching for topics. Tools for facilitating arguments. Fight club.
+* App to see pricing tiers for supermarkets
+* App to list gigs. Mobile first. Use case, out for dinner, and looking for a gig nearby for afterwards.
+* Inventory database for a shop, includes location in store so customs can find it.
+* Epic Home Chef - Collate and curate favourite recipes, upload photos of food you've cooked. Weekly challenges where everyone cooks the same meal, then is ranked on their submission.
+* CodeWars for Dev Academy. Revision kata, automatic tests.
 * App for swapping/loaning out games to people.
 * Password generator/tracker
 * PriceSpy for fresh produce
